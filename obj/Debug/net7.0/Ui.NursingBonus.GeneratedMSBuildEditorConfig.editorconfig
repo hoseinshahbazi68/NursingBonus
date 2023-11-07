@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ui.NursingBonus
+build_property.RootNamespace = Ui.NursingBonus
+build_property.ProjectDir = D:\Main Project\Ui.NursingBonus\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Main Project\Ui.NursingBonus
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/Bastari.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFzdGFyaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/CatLab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0TGFiLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/CPR.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1BSLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/DarmangahParaClinic_ECT_Talasemi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFybWFuZ2FoUGFyYUNsaW5pY19FQ1RfVGFsYXNlbWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/Dialysys.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlhbHlzeXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/EMG_mamayi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRU1HX21hbWF5aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/Indirect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kaXJlY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/OtaghAmal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RhZ2hBbWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/patientTransition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGF0aWVudFRyYW5zaXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/Zayman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWmF5bWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Main Project/Ui.NursingBonus/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ctfr54tlt3
